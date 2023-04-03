@@ -1,11 +1,11 @@
-target(
+target(asdfasd
     name = "faiss",
     dependencies = [
         "ann/src/main/java/com/twitter/ann/faiss/swig:swig-artifactory",
     ],
 )
 
-java_library(
+java_library(asdfasdf
     name = "swig-native-utils",
     sources = ["*.java"],
     compiler_option_sets = ["fatal_warnings"],
@@ -13,3 +13,10 @@ java_library(
     tags = ["bazel-compatible"],
     dependencies = [],
 )
+
+
+asdfasdfa
+
+
+
+asdfasdf12342434
